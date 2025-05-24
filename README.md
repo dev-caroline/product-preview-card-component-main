@@ -29,8 +29,7 @@ See hover and focus states for interactive elements
 🔗 Links
 Solution URL: https://dev-caroline.github.io/product-preview-card-component-main/
 
-Live Site URL: https://dev-caroline.github.io/product-preview-card-component-main/
-
+Live Site URL: https://product-preview-card-component-main-nine-psi.vercel.app/
 🛠 My Process
 ✅ Built With
 Semantic HTML5
